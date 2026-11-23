@@ -3,7 +3,7 @@
   <hr/>
   <p><strong>Anticheat for SMP Minecraft servers hosted via NeoForge with client-server architecture. Originally created for <a href="https://discord.gg/dg4YTZBP">ESQ SMP</a>.</strong></p>
   <hr/>
-  <p align="left">Real Anticheat provides only X-Ray protection yet. It stopping players from X-Raying on client and server at a time.</p>
+  <p align="left">Real Anticheat provides only X-Ray protection yet. It completely stops players from X-Raying on client and server at a time.</p>
 </div>
 
 > [!NOTE]
