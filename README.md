@@ -9,3 +9,5 @@
 > [!NOTE]
 > You can check players mods, resource packs, texture packs, and the classes loaded in a players game. Be sure to notify your players that you may collect this data.
 
+# Known problems
+- Heartbeat missing 1-2 times on joining.
